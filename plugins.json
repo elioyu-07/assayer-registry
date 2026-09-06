@@ -4,7 +4,7 @@
     "ass-spec": {
       "pluginId": "ass-spec",
       "name": "ass-spec",
-      "description": "",
+      "description": "Reviews Markdown product and software specifications against the canonical 18-point quality policy.",
       "versions": {
         "1.0.0": {
           "pluginId": "ass-spec",
@@ -13,6 +13,14 @@
           "wheelUrl": "https://github.com/elioyu-07/ass-spec/releases/download/v1.0.0/ass_spec-1.0.0-py3-none-any.whl",
           "sha256": "6bd9d9938549dda14c0c69eda536d272ad3d1e3e8e7b5139d6ebb5a579198361",
           "publishedAt": "2026-09-06T02:34:41Z"
+        },
+        "1.1.0": {
+          "pluginId": "ass-spec",
+          "version": "1.1.0",
+          "platformApiVersion": "1.0.0",
+          "wheelUrl": "https://github.com/elioyu-07/ass-spec/releases/download/v1.1.0/ass_spec-1.1.0-py3-none-any.whl",
+          "sha256": "113cd7e8b034b8e769306aa3c75c4caab581dd577bfa1dc9a1fd6d336c503c89",
+          "publishedAt": "2026-09-06T02:55:57Z"
         }
       }
     }
