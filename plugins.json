@@ -21,6 +21,14 @@
           "wheelUrl": "https://github.com/elioyu-07/ass-spec/releases/download/v1.1.0/ass_spec-1.1.0-py3-none-any.whl",
           "sha256": "113cd7e8b034b8e769306aa3c75c4caab581dd577bfa1dc9a1fd6d336c503c89",
           "publishedAt": "2026-09-06T02:55:57Z"
+        },
+        "1.1.4": {
+          "pluginId": "ass-spec",
+          "version": "1.1.4",
+          "platformApiVersion": "1.0.0",
+          "wheelUrl": "https://github.com/elioyu-07/ass-spec/releases/download/v1.1.4/ass_spec-1.1.4-py3-none-any.whl",
+          "sha256": "1a597664ddf9dc106734cdf38dcf47207707ea3e4ffd66d79024022968c6d8f5",
+          "publishedAt": "2026-09-07T08:37:17Z"
         }
       }
     }
